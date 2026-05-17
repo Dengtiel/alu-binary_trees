@@ -1,0 +1,9 @@
+# Compiled binaries
+0-node
+*.o
+
+# Junk files
+left
+right
+parent
+n
